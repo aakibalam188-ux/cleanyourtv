@@ -2,6 +2,18 @@
   <a href="https://cleanyour.tv"><img src="https://raw.githubusercontent.com/Gathin23/cleanyourtv/main/docs/banner.png" alt="CleanYourTV. Your TV, minus the ads. Strip the bloatware from any Android TV or Google TV over Wi-Fi and replace the ad-filled home screen with a clean launcher that looks like an Apple TV. No root, no cable, nothing uninstalled, and a one-line restore." width="800"></a>
 </p>
 
+> ### 📺 From Instagram? Start here!
+>
+> **[Complete beginner-friendly Mac + OnePlus Y1S Pro setup guide →](docs/ONEPLUS_Y1S_PRO_MAC_SETUP.md)**
+>
+> Step-by-step instructions to find your TV model and IP, enable Developer Options, connect ADB over Wi-Fi, create a backup, clone **this fork**, set up Java/Android SDK, build and install the Apple TV-style launcher, fix the Home button, troubleshoot HDMI ARC sound, and restore the stock launcher safely.
+>
+> **Tested:** OnePlus 50 Y1S Pro / Android TV 10 / macOS. Other Android TV models require package-by-package verification. The launcher and original project are by [Gathin23 and contributors](https://github.com/Gathin23/cleanyourtv).
+>
+> ---
+>
+
+
 <p align="center">
   <a href="https://github.com/Gathin23/cleanyourtv/stargazers"><img src="https://img.shields.io/github/stars/Gathin23/cleanyourtv?style=flat&cacheSeconds=1800&color=cfffcf&labelColor=15181e" alt="Stars"></a>
   <a href="https://github.com/Gathin23/cleanyourtv/pulls?q=is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3AGathin23%2Fcleanyourtv%20is%3Apr%20is%3Amerged&style=flat&cacheSeconds=1800&label=merged%20PRs&color=cfffcf&labelColor=15181e" alt="Merged PRs"></a>
